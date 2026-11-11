@@ -1,0 +1,6 @@
+"id_evento";"nombre";"tipo";"fecha";"descripcion";"organizador_externo"
+"EVT01";"Festival nocturno arqueológico";"Cultural";"2026-02-14";"Recorrido guiado nocturno organizado por fundación externa";"Fundación cultural externa"
+"EVT02";"Feria artesanal regional";"Comercial";"2026-03-07";"Feria de artesanos locales usando la explanada del parque";"Asociación de artesanos locales"
+"EVT03";"Concierto de música andina";"Musical";"2026-05-23";"Evento externo con boletería propia";"Productora de eventos externa"
+"EVT04";"Jornada académica de arqueología";"Académico";"2026-08-15";"Universidad externa realiza jornada de estudiantes";"Universidad externa"
+"EVT05";"Maratón fotográfica";"Deportivo/Cultural";"2026-09-12";"Concurso fotográfico organizado por colectivo local";"Colectivo fotográfico local"

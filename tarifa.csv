@@ -1,0 +1,5 @@
+"id_tarifa";"tipo_tarifa";"descripcion";"valor"
+"TAR001";"Local";"Residente del municipio donde está el parque";2400
+"TAR002";"Nacional";"Visitante colombiano no residente del municipio";14200
+"TAR003";"Internacional";"Visitante extranjero";53400
+"TAR004";"Niños menores de 8";"Tarifa reducida para menores de 8 años";9500
